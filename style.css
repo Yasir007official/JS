@@ -1,0 +1,38 @@
+/* body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#mainImg{
+    width: 50%;
+
+
+} */
+/* .new{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.div{
+    border: 2px black solid;
+    background-color: pink;
+    height: 200px;
+
+
+} */
+ /* body{
+    text-align: center;
+    display: flex;
+   justify-content: center;
+ }
+ div{
+    height: 100px;
+    width: 500px;
+    border: 2px black solid;        
+    margin: auto;   
+ } */
+  .btn{
+    height:20px;
+    width:5px;
+    background-color: goldenrod;
+    color: black;
+  }
